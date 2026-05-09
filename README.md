@@ -1,5 +1,5 @@
 # InvestorIQ 📈
-A financial dashboard for Canadian and US markets built with Python and Streamlit. Pull live stock data, analyze performance, compare investments, and simulate portfolio returns — all in a clean, interactive web interface.
+A financial dashboard for Canadian and US markets built with Python and Streamlit. Pull live stock data, analyze performance, compare investments, and simulate portfolio returns in a clean, interactive web interface.
 
 ---
 
@@ -14,7 +14,7 @@ A financial dashboard for Canadian and US markets built with Python and Streamli
 **Compare Stocks**
 - Side-by-side comparison of any two stocks
 - Start price, current price, and 1-year return for each
-- Investment simulator — enter a dollar amount and see what it would be worth today
+- Investment simulator: enter a dollar amount and see what it would be worth today
 - Combined chart showing portfolio value over time
 
 **Portfolio Simulator**
@@ -80,13 +80,13 @@ Works with any ticker available on Yahoo Finance including:
 | TSX (Canadian) | RY.TO, TD.TO, SHOP.TO, ENB.TO, SU.TO |
 | ETFs | SPY, QQQ, XIU.TO |
 
-Any valid Yahoo Finance ticker will work — not limited to the examples above.
+Any valid Yahoo Finance ticker will work, not limited to the examples above.
 
 ---
 
 ## Data
 
-All market data is sourced from Yahoo Finance via the `yfinance` library. Prices are delayed approximately 15 minutes. Data is cached for 1 hour on the market overview page to reduce API calls.
+All market data is sourced from Yahoo Finance via the yfinance library. Prices are delayed approximately 15 minutes. Data is cached for 1 hour on the market overview page to reduce API calls.
 
 ---
 
