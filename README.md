@@ -1,6 +1,8 @@
 # InvestorIQ 📈
 A financial dashboard for Canadian and US markets built with Python and Streamlit. Pull live stock data, analyze performance, compare investments, and simulate portfolio returns in a clean, interactive web interface.
 
+🔗 Live App: https://investoriq.streamlit.app
+
 ---
 
 ## Features
